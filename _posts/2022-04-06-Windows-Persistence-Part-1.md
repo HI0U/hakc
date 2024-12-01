@@ -5,9 +5,9 @@ excerpt: "Several ways to set persistence in the Windows operating system."
 date: 06-04-2022
 classes: wide
 header:
-  teaser: "https://alfacom.ee/wp-content/uploads/2019/05/lock_broken_unlocked_binary_code_security_circuits_protection_privacy_thinkstock_873916354-100750739-large.jpg"
+  teaser: ""
   teaser_home_page: true
-  icon: "https://static.thenounproject.com/png/81023-200.png"
+  icon: "/assets/images/81023-200.png"
 categories:
   - Persistence-Techniques
 tags:
