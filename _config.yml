@@ -23,9 +23,7 @@ twitter_username: username
 github_username: HI0U
 minimal_mistakes_skin: dark
 search: true
-header:
-  teaser: /assets/images/81023-200.png
-
+logo: "/assets/images/111111.jpg"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
