@@ -23,7 +23,8 @@ twitter_username: username
 github_username: HI0U
 minimal_mistakes_skin: dark
 search: true
-teaser: /assets/images/81023-200.png
+header:
+  teaser: /assets/images/81023-200.png
 
 # Build settings
 markdown: kramdown
