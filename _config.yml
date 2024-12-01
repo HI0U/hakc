@@ -24,8 +24,6 @@ github_username: HI0U
 minimal_mistakes_skin: dark
 search: true
 logo: "/assets/images/111111.jpg"
-header:
-  teaser: "/assets/images/81023-200.png"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
