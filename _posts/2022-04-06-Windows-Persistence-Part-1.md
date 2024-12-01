@@ -15,7 +15,7 @@ tags:
   - Persistence
   - TA0003
 header:
-  teaser: /assets/images/81023-200.png
+  teaser: "/assets/images/111111.jpg"
 ---
 
 <img src= "https://alfacom.ee/wp-content/uploads/2019/05/lock_broken_unlocked_binary_code_security_circuits_protection_privacy_thinkstock_873916354-100750739-large.jpg" width="300" height="200" />
