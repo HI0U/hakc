@@ -4,10 +4,6 @@ title: Windows Persistence Part 1
 excerpt: "Several ways to set persistence in the Windows operating system."
 date: 06-04-2022
 classes: wide
-header:
-  teaser: ""
-  teaser_home_page: true
-  icon: "/assets/images/81023-200.png"
 categories:
   - Persistence-Techniques
 tags:
